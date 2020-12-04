@@ -1,0 +1,1 @@
+{"ashwin": 70, "charann": 80, "surendhar": 90, "kavin": 100}
